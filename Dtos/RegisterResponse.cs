@@ -1,4 +1,4 @@
-namespace pidepeapi.Dtos
+namespace baseApiNetCoreMongoDB-Security.Dtos
 {
     public class RegisterResponse
     {
