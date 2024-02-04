@@ -6,10 +6,10 @@ using System.Text;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.IdentityModel.Tokens;
-using pidepeapi.Dtos;
-using pidepeapi.Models;
+using baseApiNetCoreMongoDB-Security.Dtos;
+using baseApiNetCoreMongoDB-Security.Models;
 
-namespace pidepeapi.Controllers
+namespace baseApiNetCoreMongoDB-Security.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
