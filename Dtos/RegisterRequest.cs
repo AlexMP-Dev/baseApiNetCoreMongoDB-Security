@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace pidepeapi.Dtos
+namespace baseApiNetCoreMongoDB-Security.Dtos
 {
     public class RegisterRequest
     {
